@@ -1,0 +1,124 @@
+1
+00:00:00,270 --> 00:00:02,790
+You have entered the Collectibles section.
+
+2
+00:00:03,720 --> 00:00:09,390
+NFT technology is easily made into one-of-a-kind trading cards and memorabilia.
+
+3
+00:00:10,050 --> 00:00:13,770
+Here are some examples of how companies are tapping into this space,
+
+4
+00:00:14,010 --> 00:00:18,690
+leveraging notoriety and scarcity in the digital space.
+
+5
+00:00:19,260 --> 00:00:21,690
+US OPEN, 2021
+
+6
+00:00:22,830 --> 00:00:29,160
+In 2021, the US Open debuted its first ever NFT collection.
+
+7
+00:00:29,460 --> 00:00:35,160
+The collectibles ranged from limited edition ticket stubs to “golden ace” tokens.
+
+8
+00:00:35,820 --> 00:00:42,990
+These offered in-person experiences with tennis champions such as Venus Williams and Andy Roddick,
+
+9
+00:00:43,530 --> 00:00:48,180
+giving fans another way to engage with, and commemorate the experience.
+
+10
+00:00:48,840 --> 00:00:54,480
+After the sale, the NFT marketplace Bitski saw that this NFT collection
+
+11
+00:00:54,480 --> 00:00:59,280
+brought an entirely new community of people into the world of NFTs
+
+12
+00:00:59,640 --> 00:01:03,480
+as a majority of sales were from first-time buyers.
+
+13
+00:01:05,310 --> 00:01:08,460
+PATIENT PANDA, VEEFRIENDS, 2021
+
+14
+00:01:09,180 --> 00:01:12,660
+VeeFriends is a Gary Vaynerchuk NFT project,
+
+15
+00:01:12,660 --> 00:01:17,490
+comprised of 10,255 hand drawn characters.
+
+16
+00:01:17,940 --> 00:01:21,660
+The project aims to create a meaningful community
+
+17
+00:01:21,660 --> 00:01:25,650
+and real life value around intellectual property.
+
+18
+00:01:26,580 --> 00:01:29,760
+They do this by adding utility to these tokens,
+
+19
+00:01:29,760 --> 00:01:31,500
+such as access to VeeCon
+
+20
+00:01:31,710 --> 00:01:36,210
+an annual conference that Mr. Vaynerchuk plans to produce for the next three years.
+
+21
+00:01:36,900 --> 00:01:42,090
+The VeeFriends collection was launched in May 2021 and by October 1st,
+
+22
+00:01:42,300 --> 00:01:46,830
+the original hand-drawn artworks made their Christie's debut,
+
+23
+00:01:47,040 --> 00:01:49,860
+resulting in a seven figure sale.
+
+24
+00:01:50,880 --> 00:01:54,180
+The collection of characters represent human traits
+
+25
+00:01:54,180 --> 00:02:00,030
+that Mr. Vaynerchuk most admires and which he believes will lead to happiness and success.
+
+26
+00:02:00,810 --> 00:02:04,920
+A portion of funds from token royalties will be donated to charities,
+
+27
+00:02:05,070 --> 00:02:07,890
+as well as five free scholarship tokens
+
+28
+00:02:07,920 --> 00:02:12,990
+that give owners access to learn from Mr. Vaynerchuk and his professional network.
+
+29
+00:02:13,810 --> 00:02:16,240
+To offset the environmental impact,
+
+30
+00:02:16,540 --> 00:02:22,360
+VeeFriends will be making contributions towards decentralized autonomous organizations
+
+31
+00:02:22,390 --> 00:02:28,120
+to benefit renewable energy and support the Eth 2.0 proof of stake development.
+

@@ -1,0 +1,80 @@
+1
+00:00:00,930 --> 00:00:04,350
+You have entered the tickets and memberships section.
+
+2
+00:00:05,590 --> 00:00:09,910
+NFTs create a new version of tickets and membership cards
+
+3
+00:00:10,030 --> 00:00:14,770
+that go beyond buying the physical tickets or a unique membership card,
+
+4
+00:00:14,920 --> 00:00:18,880
+something that lives in the digital world and can’t be lost.
+
+5
+00:00:19,870 --> 00:00:21,070
+Flyfish Club
+
+6
+00:00:22,270 --> 00:00:26,770
+Flyfish Club is the world’s first member’s only dining club
+
+7
+00:00:26,890 --> 00:00:30,970
+where membership is purchased on the blockchain as a NFT
+
+8
+00:00:31,120 --> 00:00:35,320
+and owned by the token-holder to gain access to the dining club,
+
+9
+00:00:35,530 --> 00:00:40,420
+along with various culinary, cultural and social experiences.
+
+10
+00:00:40,600 --> 00:00:46,210
+As the first of its kind, Flyflsh Club is focused around utility.
+
+11
+00:00:47,020 --> 00:00:50,860
+Members will have access to an exclusive dining club
+
+12
+00:00:51,070 --> 00:00:56,080
+that’s curated by award-winning chefs and hospitality experts.
+
+13
+00:00:56,590 --> 00:01:01,150
+Never before has a restaurant, venue or club
+
+14
+00:01:01,300 --> 00:01:04,330
+combined private member dining experiences
+
+15
+00:01:04,450 --> 00:01:09,520
+with blockchain technology, converting a membership into an asset.
+
+16
+00:01:10,360 --> 00:01:15,070
+The membership requires no application or recurring annual fees.
+
+17
+00:01:15,880 --> 00:01:17,260
+As an NFT,
+
+18
+00:01:17,500 --> 00:01:21,490
+membership can be used to enjoy the club or if desired,
+
+19
+00:01:21,640 --> 00:01:26,470
+it can be sold, transferred or leased to others at the owner's choice
+
+20
+00:01:26,530 --> 00:01:30,910
+leveraging the unique blockchain technology to the owner’s advantage.
+

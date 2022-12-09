@@ -1,0 +1,116 @@
+/* WIP. Converting DreamStyleguide, DreamColors to variables */
+:root {
+    --color-black: #000;
+    --color-primary: hsl(269, 55%, 61%);
+    --color-gray: #ccc;
+    --color-red: #f00;
+    --color-yellow: #ffcf00;
+    --color-steel: #6d7278;
+    --color-white: #fff;
+    --color-green: #55b750;
+    --color-blue: #1B81F9;
+    --color-accessibility: hsl(269, 55%, 61%, 0.8);
+
+    --color-online: #00E532;
+    
+    --color-gray800: #3C4043;
+    --color-gray600: #80868B;
+    --color-gray500: #959CA5;
+    --color-gray300: #DADCE0;
+    --color-gray200: #F1F3F4;
+    --color-gray50: #FAFAFA;
+
+    --color-blue600: #1A73E8;
+    --color-blue500: #4285F4;
+    --color-blue200: #72ABF1;
+    --color-blue100: #E7F5F7;
+    --color-blue50: #F6F9FE;
+
+    --color-yellow600: #F9AB00;
+    --color-yellow500: #FBBC04;
+    --color-yellow200: #F5C64B;
+    --color-yellow100: #F4EDE6;
+
+    --color-green600: #1E8E3E;
+    --color-green500: #34A853;
+    --color-green200: #73C16B;
+    --color-green100: #E4EFE6;
+
+    --color-red600: #D93025;
+    --color-red500: #EA4335;
+    --color-red200: #F7BBBE;
+    --color-red100: #F9EDED;
+
+    --font-primary: 'Manrope';
+
+    --font-h1: 400 5.6rem/120% var(--font-primary);
+    --font-h2: 400 4rem/135% var(--font-primary);
+    --font-h3: 400 3.4rem/140% var(--font-primary);
+    --font-h4: 400 2.8rem/140% var(--font-primary);
+    --font-h5: 400 2.4rem/130% var(--font-primary);
+
+    --font-bodyLarge: 400 2.4rem/130% var(--font-primary);
+    --font-bodyMedium: 400 1.5rem/150% var(--font-primary);
+    --font-bodySmall: 400 1.3rem/140% var(--font-primary);
+
+    --font-label0: 500 1.2rem/110% var(--font-primary);
+    --font-label1: 500 1.3rem/120% var(--font-primary);
+    --font-label2: 500 1.4rem/130% var(--font-primary);
+    --font-label3: 500 1.5rem/130% var(--font-primary);
+    --font-label4: 500 1.7rem/150% var(--font-primary);
+    --font-label5: 500 2rem/145% var(--font-primary);
+
+    --font-button: 1.5rem var(--font-primary);
+    --font-buttonSmall: 400 1.35rem/100% var(--font-primary);
+    --font-buttonMedium: 400 1.4rem/100% var(--font-primary);
+    --font-buttonLarge: 400 1.7rem/100% var(--font-primary);
+
+    --font-p1: 1.6rem/1.4 var(--font-primary);
+    --font-p2: 1.5rem/1.4 var(--font-primary);
+    --font-p3: 1.4rem/1.3 var(--font-primary);
+
+    --font-l1: 1rem var(--font-primary);
+
+    --box-shadow-accessibility: 0 0 0 0.25rem var(--color-accessibility);
+
+    /**
+     * UI 3D.
+     */
+    --black: rgb(0, 0, 0, 1);
+    --black100: rgb(0, 0, 0, 1);
+    --black90: rgb(0, 0, 0, 0.9);
+    --black80: rgb(0, 0, 0, 0.8);
+    --black70: rgb(0, 0, 0, 0.7);
+    --black60: rgb(0, 0, 0, 0.6);
+    --black50: rgb(0, 0, 0, 0.5);
+    --black40: rgb(0, 0, 0, 0.4);
+    --black30: rgb(0, 0, 0, 0.3);
+    --black20: rgb(0, 0, 0, 0.2);
+    --black10: rgb(0, 0, 0, 0.1);
+
+    --white: rgb(255, 255, 255, 1);
+    --white100: rgb(255, 255, 255, 1);
+    --white90: rgb(255, 255, 255, 0.9);
+    --white80: rgb(255, 255, 255, 0.8);
+    --white70: rgb(255, 255, 255, 0.7);
+    --white60: rgb(255, 255, 255, 0.6);
+    --white50: rgb(255, 255, 255, 0.5);
+    --white40: rgb(255, 255, 255, 0.4);
+    --white30: rgb(255, 255, 255, 0.3);
+    --white20: rgb(255, 255, 255, 0.2);
+    --white10: rgb(255, 255, 255, 0.1);
+
+    --ui-transparent-h3-light: 400 2.8rem/120% var(--font-primary);
+    --ui-transparent-h4-bold: 700 2.4rem/120% var(--font-primary);
+    --ui-transparent-h5-regular: 400 2rem/120% var(--font-primary);
+    --ui-transparent-label5-regular: 400 1.6rem/130% var(--font-primary);
+    --ui-transparent-label5-bold: 700 1.6rem/105% var(--font-primary);
+    --ui-transparent-label5-heavy: 900 1.6rem/105% var(--font-primary);
+    --ui-transparent-label2-regular: 400 1.4rem/110% var(--font-primary);
+    --ui-transparent-label2-bold: 700 1.4rem/120% var(--font-primary);
+    --ui-transparent-label1-regular: 400 1.2rem/110% var(--font-primary);
+    --ui-transparent-label1-bold: 700 1.2rem/110% var(--font-primary);
+
+    --vr-background: rgb(41, 31, 98);
+    --vr-color: rgb(174, 191, 251);
+}

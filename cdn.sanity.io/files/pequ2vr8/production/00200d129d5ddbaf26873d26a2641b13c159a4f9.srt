@@ -1,0 +1,100 @@
+1
+00:00:00,270 --> 00:00:02,580
+You have entered the DAO section.
+
+2
+00:00:03,770 --> 00:00:07,970
+Decentralized autonomous organizations, also known as DAOs,
+
+3
+00:00:08,300 --> 00:00:11,630
+are built around rules encoded as a computer program
+
+4
+00:00:11,780 --> 00:00:14,450
+and controlled by the organization's members.
+
+5
+00:00:15,140 --> 00:00:16,970
+A key element to a DAO
+
+6
+00:00:17,330 --> 00:00:22,100
+is that it has no central leadership and decisions must be made from the bottom-up,
+
+7
+00:00:22,850 --> 00:00:24,860
+ruled by the community as a whole.
+
+8
+00:00:25,830 --> 00:00:30,270
+How will the world of NFTs be influenced by DAOs?
+
+9
+00:00:30,870 --> 00:00:37,110
+Dolce & Gabbana, DogeCrown, 2021 purchased by RED DAO
+
+10
+00:00:38,080 --> 00:00:41,350
+Currently, one of the most popular types of DAOs
+
+11
+00:00:41,530 --> 00:00:46,900
+is focused on collecting and investing in creative work for a specific industry.
+
+12
+00:00:47,500 --> 00:00:51,250
+The most popular fashion DAO to date is the RED DAO.
+
+13
+00:00:52,270 --> 00:00:57,190
+The RED DAO was created to support and invest in the future of fashion.
+
+14
+00:00:57,430 --> 00:01:00,700
+Made up of 40+ members from all over the world,
+
+15
+00:01:00,850 --> 00:01:04,150
+RED DAO has collected hundreds of virtual works
+
+16
+00:01:04,390 --> 00:01:08,770
+and has also invested in a handful of leading web3 platforms,
+
+17
+00:01:08,860 --> 00:01:12,430
+such as UNXD, RSTLSS and The Fabricant.
+
+18
+00:01:12,850 --> 00:01:20,260
+In 2021, the RED DAO made headlines after it purchased one of Dolce & Gabbana’s first-ever NFTs,
+
+19
+00:01:20,530 --> 00:01:24,640
+the Doge Crown, for almost $1.3 million in Ether.
+
+20
+00:01:25,360 --> 00:01:26,920
+Supporters of DAOs
+
+21
+00:01:27,100 --> 00:01:34,870
+believe that these organizations have the ability to further empower creators, designers and artists alike.
+
+22
+00:01:35,470 --> 00:01:39,280
+DAOs create new investment opportunities for its members
+
+23
+00:01:39,340 --> 00:01:42,580
+and the creators they bring into these communities and beyond.
+
+24
+00:01:42,870 --> 00:01:48,300
+The DAO rulebook can help to democratize work, creative process and more.
+
+25
+00:01:48,930 --> 00:01:54,480
+It will be interesting to see how DAOs develop in the next chapter of Web 3.0.
+

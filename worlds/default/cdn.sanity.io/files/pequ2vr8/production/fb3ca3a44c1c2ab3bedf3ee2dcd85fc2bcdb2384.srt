@@ -1,0 +1,84 @@
+1
+00:00:00,300 --> 00:00:03,030
+You have entered the Authentication section.
+
+2
+00:00:04,080 --> 00:00:06,570
+In a wildly unregulated market,
+
+3
+00:00:07,050 --> 00:00:11,340
+there has been a proliferation of unauthorized NFT art.
+
+4
+00:00:11,850 --> 00:00:14,970
+These range from people pretending to be an artist,
+
+5
+00:00:15,270 --> 00:00:20,160
+to metaverse designers making big brand products without licensing.
+
+6
+00:00:20,910 --> 00:00:24,180
+JOIN THE ARMY, SHOLIM, 2014
+
+7
+00:00:24,870 --> 00:00:30,420
+While NFTs serve as a certificate of authenticity for digital artifacts,
+
+8
+00:00:30,720 --> 00:00:36,330
+hackers have exploited the burgeoning market and those who are not crypto-literate.
+
+9
+00:00:36,930 --> 00:00:43,890
+In 2021, the Serbian artist Milos Rajkovic, also known as Sholim,
+
+10
+00:00:44,310 --> 00:00:52,530
+was caught by surprise when he was alerted by social media that he had an NFT sale of 122 works of art.
+
+11
+00:00:52,980 --> 00:00:55,710
+It was indeed copies of his work,
+
+12
+00:00:56,070 --> 00:00:59,340
+but it was not Mr. Rajkovic making the sales.
+
+13
+00:00:59,700 --> 00:01:03,450
+Mr. Rajkovic alerted the platform and the sale
+
+14
+00:01:03,450 --> 00:01:07,470
+was pulled down and he has since sought guidance from a copyright lawyer.
+
+15
+00:01:08,070 --> 00:01:11,850
+Due to the nature of a decentralized crypto market,
+
+16
+00:01:12,090 --> 00:01:16,830
+it may be difficult to identify fraud and move forward with recourse
+
+17
+00:01:16,890 --> 00:01:21,180
+when the origin point does not have a trusted verification source.
+
+18
+00:01:21,750 --> 00:01:23,010
+On the flip side,
+
+19
+00:01:23,340 --> 00:01:25,800
+because records are immutable,
+
+20
+00:01:26,250 --> 00:01:29,460
+when a proper verification system is in place,
+
+21
+00:01:29,760 --> 00:01:34,770
+it is increasingly easier to track the history of genuine provenance.
+

@@ -1,0 +1,136 @@
+1
+00:00:00,330 --> 00:00:03,240
+You have entered the Sustainability section.
+
+2
+00:00:03,780 --> 00:00:07,260
+The production of an average single-edition NFT
+
+3
+00:00:07,290 --> 00:00:12,120
+is equivalent to driving a petrol car for 1,000 kilometers,
+
+4
+00:00:12,330 --> 00:00:17,820
+hence, the environmental impact of NFT minting is something we cannot ignore.
+
+5
+00:00:18,570 --> 00:00:20,400
+How are people addressing this?
+
+6
+00:00:21,000 --> 00:00:25,920
+DEEPER MEDITATIONS #6, MEMO AKTEN, 2018
+
+7
+00:00:26,040 --> 00:00:30,150
+For the first time ever, thanks to NFT technology,
+
+8
+00:00:30,300 --> 00:00:35,010
+digital artists are able to sustain a living by making art.
+
+9
+00:00:35,430 --> 00:00:41,430
+But we cannot talk about NFTs without addressing its negative impact on the environment.
+
+10
+00:00:42,150 --> 00:00:49,260
+Every NFT that is minted becomes a part of the blockchain network and increases carbon emissions.
+
+11
+00:00:49,710 --> 00:00:53,790
+Blockchain technology requires a significant amount of gas
+
+12
+00:00:53,820 --> 00:00:57,120
+as well as several kilotons of e-waste per year.
+
+13
+00:00:57,780 --> 00:00:58,770
+Because of this,
+
+14
+00:00:58,950 --> 00:01:04,350
+people have been advocating for more transparency around the impact of each NFT.
+
+15
+00:01:04,890 --> 00:01:08,820
+Some suggest that NFTs should provide ballpark figures
+
+16
+00:01:08,820 --> 00:01:13,050
+and advice regarding each NFTs ecological impact
+
+17
+00:01:13,230 --> 00:01:16,260
+and should be made compulsory for all marketplaces.
+
+18
+00:01:16,740 --> 00:01:19,920
+Those who oppose the compulsory impact information
+
+19
+00:01:20,130 --> 00:01:24,510
+argue that blockchain eliminates traditional banking methods.
+
+20
+00:01:24,690 --> 00:01:28,440
+It doesn’t require offices full of employees and web servers,
+
+21
+00:01:28,590 --> 00:01:31,260
+which have a larger impact on the environment,
+
+22
+00:01:31,320 --> 00:01:34,260
+so they believe that it’s simply not necessary.
+
+23
+00:01:34,650 --> 00:01:38,760
+Creative technologist and doctorate in AI Memo Akten
+
+24
+00:01:39,000 --> 00:01:44,340
+is a crypto artist championing a more eco-friendly world for NFTs.
+
+25
+00:01:44,730 --> 00:01:48,810
+He exclusively uses the proof-of-stake consensus algorithm
+
+26
+00:01:48,930 --> 00:01:54,180
+as it requires millions less in energy than the normal proof-of-work algorithm.
+
+27
+00:01:54,690 --> 00:01:56,700
+As a result of its impact,
+
+28
+00:01:56,790 --> 00:02:01,410
+Ethereum also plans to change to the proof-of-stake consensus algorithm
+
+29
+00:02:01,530 --> 00:02:05,250
+to ensure that its algorithms are more environmentally friendly.
+
+30
+00:02:06,000 --> 00:02:08,130
+We have selected this piece,
+
+31
+00:02:08,160 --> 00:02:12,510
+Deeper Meditations #6 from Memo’s 2018 collection,
+
+32
+00:02:12,690 --> 00:02:20,010
+which is a self portrait that explores the minds of an artificial and biological neural network.
+
+33
+00:02:20,400 --> 00:02:24,030
+Together with many other pieces in this exhibition,
+
+34
+00:02:24,270 --> 00:02:28,380
+we explore how generative art takes on a life of its own.
+

@@ -1,0 +1,46 @@
+{
+    "MOUNTS":
+    [
+        "global",
+        "loader"
+    ],
+    "VRMOUNTS":
+    [
+        "vrlanding"
+    ],
+    "URL": "https://iconicmints.wsjbarrons.com/",
+    "MODERATION_ENABLED": false,
+    "EVENT_AUTH_REQUIRED": false,
+    "VR_AUTH_REQUIRED": false,
+    "GAMECENTER_SOCKET": "wss://s.dreamwave.network/iconicmints/ws",
+    "API": "/dream",
+    "API_LOCAL": "/dream",
+    "PROD": true,
+    "LOCAL_OVERRIDE": true,
+    "AGORA_APP_ID": "3ed31cb4b6e046b687ed06b3a6ef0ea5",
+    "AGORA_TOKEN_SERVER": "https://us-central1-wsj-nft-gallery.cloudfunctions.net/agora/token",
+    "AGORA_BROADCAST_CODE_VERIFY": "https://us-central1-wsj-nft-gallery.cloudfunctions.net/agora/verify",
+    "PLATFORM_CONFIG":
+    {
+        "platform": "",
+        "apiKey": "AIzaSyDOF0-663SifxAnbHEJgYC8g8alr2h1l1Y",
+        "appId": "1:408430849860:web:8a4f3589911a3b040db111",
+        "measurementId": "",
+        "projectId": "wsj-nft-gallery",
+        "authDomain": "wsj-nft-gallery.firebaseapp.com",
+        "databaseURL": "wsj-nft-gallery-default-rtdb.firebaseio.com",
+        "senderId": "408430849860",
+        "title": "Config"
+    },
+    "GAMECENTER_FIREBASE": true,
+    "SERVICES":
+    {
+        "firebase": true,
+        "firestore": true,
+        "database": true,
+        "functions": true,
+        "analytics": false,
+        "auth": true,
+        "init": true
+    }
+}

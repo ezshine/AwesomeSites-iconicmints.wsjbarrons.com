@@ -1,0 +1,104 @@
+1
+00:00:00,180 --> 00:00:02,610
+You have entered the healthcare section.
+
+2
+00:00:04,610 --> 00:00:07,760
+While many connect NFTs to the world of art,
+
+3
+00:00:08,030 --> 00:00:13,610
+another way to leverage this technology can be seen in the healthcare data market. 
+
+4
+00:00:13,970 --> 00:00:16,880
+DNA NFT sample, Aimedis
+
+5
+00:00:17,180 --> 00:00:19,970
+Due to the fragmented U.S. healthcare system,
+
+6
+00:00:20,360 --> 00:00:27,740
+NFT technology can help to consolidate and organize a patient’s data across different healthcare providers
+
+7
+00:00:27,890 --> 00:00:30,890
+into one unique and safe digital file.
+
+8
+00:00:31,400 --> 00:00:35,060
+The technology would pull a patient’s data across platforms
+
+9
+00:00:35,060 --> 00:00:39,890
+and help the patient and doctors track diagnosis and tests throughout their lifetime.
+
+10
+00:00:40,370 --> 00:00:41,510
+In addition to this,
+
+11
+00:00:41,780 --> 00:00:46,100
+the patient would be able to own their healthcare data,
+
+12
+00:00:46,400 --> 00:00:51,110
+ensuring that medical and healthcare companies are not selling the data.
+
+13
+00:00:51,350 --> 00:00:57,830
+Aimedis, an eHealth platform utilizing blockchain technology, launched in 2020.
+
+14
+00:00:58,370 --> 00:01:02,000
+This healthcare platform combines eHealth applications,
+
+15
+00:01:02,000 --> 00:01:09,560
+such as health records, video chat with doctors, appointments, prescriptions, and emergency records.
+
+16
+00:01:09,950 --> 00:01:17,390
+This is all done on a unique medical and scientific-pharmaceutical NFT data marketplace,
+
+17
+00:01:17,690 --> 00:01:25,400
+which displays all relevant operations in a private blockchain, visible and transparent to the patient.
+
+18
+00:01:26,150 --> 00:01:32,180
+Here we see an image of an DNA NFT cover sample which patients
+
+19
+00:01:32,180 --> 00:01:36,770
+and their doctors can access easily through the Aimedis platform.
+
+20
+00:01:37,490 --> 00:01:39,680
+Using blockchain technology,
+
+21
+00:01:40,010 --> 00:01:46,820
+Aimedis users will be able to easily track their medical records across different healthcare institutions.
+
+22
+00:01:47,150 --> 00:01:50,270
+Using NFT technology, Aimedis will offer
+
+23
+00:01:50,270 --> 00:01:56,660
+staking, governance, medical DeFi and social token functionalities.
+
+24
+00:01:57,560 --> 00:01:59,600
+It is expected that this technology,
+
+25
+00:01:59,600 --> 00:02:02,750
+will see a longer opportunity for adoption in the U.S.
+
+26
+00:02:03,020 --> 00:02:06,170
+as a result of the country’s convoluted healthcare system.
+

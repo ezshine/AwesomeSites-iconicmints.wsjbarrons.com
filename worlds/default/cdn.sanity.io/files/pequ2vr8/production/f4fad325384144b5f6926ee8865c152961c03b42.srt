@@ -1,0 +1,92 @@
+1
+00:00:00,000 --> 00:00:02,700
+You have entered the Dow Jones section.
+
+2
+00:00:03,060 --> 00:00:06,540
+Currently, Dow Jones' foray into NFTs.
+
+3
+00:00:07,020 --> 00:00:10,050
+BARRON'S 100 YEARS, 2021
+
+4
+00:00:10,570 --> 00:00:16,450
+In 2021, to commemorate the 100 year anniversary of Barron’s magazine,
+
+5
+00:00:16,720 --> 00:00:21,340
+the financial publication minted its first and centennial covers
+
+6
+00:00:21,490 --> 00:00:24,820
+on SuperRare, Ethereum’s art marketplace.
+
+7
+00:00:25,180 --> 00:00:27,970
+Journalist and historian Kenneth Pringle
+
+8
+00:00:28,240 --> 00:00:33,490
+combed the Barron’s archives for stories from the past that are being told once again.
+
+9
+00:00:34,120 --> 00:00:39,970
+For example, we saw a version of the GameStop phenomenon in the 1920s,
+
+10
+00:00:40,240 --> 00:00:45,190
+when a supermarket was being sold short by a number of Wall Street investment firms.
+
+11
+00:00:45,700 --> 00:00:50,020
+Using the research and coverage in Barron's centennial issue,
+
+12
+00:00:50,290 --> 00:00:55,960
+the NFT-minted cover is a visual interpretation of those dualities.
+
+13
+00:00:56,470 --> 00:01:02,080
+Younger investors are getting into the financial market through new platforms and avenues,
+
+14
+00:01:02,260 --> 00:01:07,000
+and the NFT is just one of those growing markets they’re putting their money behind.
+
+15
+00:01:09,010 --> 00:01:14,650
+WSJ FIRST STIPPLE NFT, 2021
+
+16
+00:01:15,190 --> 00:01:23,320
+The Wall Street Journal’s first stipple (or ‘hedcut’) appeared on its front page in 1979.
+
+17
+00:01:23,710 --> 00:01:27,370
+Named for a drawing technique used to illustrate currency
+
+18
+00:01:27,370 --> 00:01:31,180
+— stippling — the style has become a Journal signature,
+
+19
+00:01:31,660 --> 00:01:38,800
+hand-drawn to this day by a team of artists who spend four to five hours creating each image.
+
+20
+00:01:39,190 --> 00:01:43,750
+At The Wall Street Journal’s Tech Live Conference in October 2021,
+
+21
+00:01:43,990 --> 00:01:48,430
+an attendee won the Journal’s very first NFT-minted stipple.
+
+22
+00:01:48,850 --> 00:01:52,780
+The winner was able to choose from 6 different stipple images
+
+23
+00:01:52,990 --> 00:01:56,560
+and ultimately chose a stipple of a rolodex to be minted.
+

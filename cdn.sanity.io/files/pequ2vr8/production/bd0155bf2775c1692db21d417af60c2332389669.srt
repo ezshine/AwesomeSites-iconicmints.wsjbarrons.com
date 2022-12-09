@@ -1,0 +1,124 @@
+1
+00:00:00,000 --> 00:00:02,490
+You have entered the Heritage section.
+
+2
+00:00:03,020 --> 00:00:07,580
+Many people consider NFTs to be new-age digital artworks
+
+3
+00:00:07,730 --> 00:00:11,720
+that are inspired by and created in the 21st century.
+
+4
+00:00:12,050 --> 00:00:18,350
+There are several museums and institutions that create NFTs from historical works of art,
+
+5
+00:00:18,680 --> 00:00:22,220
+allowing new collectors to own a piece of art history.
+
+6
+00:00:22,370 --> 00:00:25,130
+THE GREAT WAVE by Katsushika Hokusai,
+
+7
+00:00:25,190 --> 00:00:29,300
+LaCollection in partnership with the BRITISH MUSEUM, 2021
+
+8
+00:00:29,840 --> 00:00:34,400
+The art world was one of the fastest industries to adopt the use of NFTs,
+
+9
+00:00:34,640 --> 00:00:40,250
+since they serve as a certificate of authenticity for digital artifacts and their scarcity.
+
+10
+00:00:41,150 --> 00:00:45,500
+These unique certificates are attached to digital images.
+
+11
+00:00:46,190 --> 00:00:51,050
+As NFTs are traded and tracked indefinitely through the use of blockchain technology,
+
+12
+00:00:51,350 --> 00:00:55,040
+it is a failsafe way to confirm a piece’s provenance.
+
+13
+00:00:56,240 --> 00:00:58,910
+With each sale of an NFT artwork,
+
+14
+00:00:59,150 --> 00:01:04,460
+the original artist receives a small percentage of each resale transaction.
+
+15
+00:01:05,240 --> 00:01:08,480
+As a result, as long as the artwork exists,
+
+16
+00:01:08,570 --> 00:01:13,700
+NFTs can enhance the earning power of each piece of art for perpetuity.
+
+17
+00:01:14,030 --> 00:01:16,400
+On September 30, 2021,
+
+18
+00:01:16,850 --> 00:01:23,690
+LaCollection launched its first NFT platform dedicated to museums and art institutions
+
+19
+00:01:23,780 --> 00:01:25,820
+in partnership with the British Museum.
+
+20
+00:01:26,420 --> 00:01:30,440
+The platform specializes in certifying masterpieces
+
+21
+00:01:30,650 --> 00:01:36,170
+and functions as a certificate of authenticity signed by partner institutions.
+
+22
+00:01:36,680 --> 00:01:40,640
+The work you see in front of you is “Under the Wave off Kanagawa,”
+
+23
+00:01:40,880 --> 00:01:44,060
+also known as “The Great Wave” by Katsushika Hokusai.
+
+24
+00:01:44,390 --> 00:01:47,150
+Owned by the British Museum, from the series,
+
+25
+00:01:47,240 --> 00:01:51,200
+“Thirty-six Views of Mount Fuji” made in 1831.
+
+26
+00:01:52,340 --> 00:01:53,570
+On LaCollection,
+
+27
+00:01:53,840 --> 00:01:58,310
+patrons are able to buy NFT versions of historical works of art
+
+28
+00:01:58,490 --> 00:02:01,550
+like “The Great Wave” in small editions of 10.
+
+29
+00:02:02,390 --> 00:02:06,770
+The minting of this physical work of art gives the general public
+
+30
+00:02:06,890 --> 00:02:10,789
+an opportunity to own their very own version of art history
+
+31
+00:02:11,090 --> 00:02:14,270
+and creates a passive revenue stream for the museum.
+

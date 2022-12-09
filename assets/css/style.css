@@ -1,0 +1,188 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700&display=swap');
+
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+body {
+	box-sizing: border-box;
+}
+
+html {
+	font-size: 62.5%;
+}
+
+body, html, #Stage {
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+	-ms-content-zooming: none;
+	-ms-touch-action: none;
+	touch-action: none;
+	background: #ffffff;
+	font-family: 'Manrope', sans-serif;
+}
+
+#Stage {
+	opacity: 0;
+}
+
+#Stage,
+#Stage * {
+	position: absolute;
+	user-select: none;
+	-moz-user-select: none;
+	-webkit-user-select: none;
+	-o-user-select: none;
+	-ms-user-select: none;
+	-webkit-tap-highlight-color: rgba(0,0,0,0);
+	-webkit-text-size-adjust: none;
+}
+#Stage * input,  #Stage * textarea {
+	-moz-user-select: auto;
+	-webkit-user-select: auto;
+	-o-user-select: auto;
+	-ms-user-select: auto;
+	-webkit-tap-highlight-color: auto;
+}
+
+#Stage br:not([class*='vjs']) ,
+#Stage span:not([class*='vjs']) {
+	position: relative;
+}
+.feature-detects {
+	visibility: hidden;
+	pointer-events: none;
+	position: absolute;
+	width: 0;
+	height: 100vh;
+	clip: rect(0 0 0 0);
+}
+
+.VideoLayoutWrapper__video-wrapper-container::-webkit-scrollbar {
+    width: 0;
+    background: transparent;
+}
+
+.spinner {
+	animation: rotate 2s linear infinite;
+	z-index: 2;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin: -17px 0 0 -25px;
+	width: 35px;
+	height: 35px;
+	overflow: visible;
+}
+.spinner .path {
+	position: relative;
+	stroke: #5757D8;
+	overflow: visible;
+	stroke-linecap: round;
+	width: 50px;
+	height: 50px;
+	animation: dash 1.5s ease-in-out infinite;
+}
+
+.spinner-anim {
+	animation: rotate 3s infinite linear;
+	border-right: 2px solid #000000;
+	border-left: 2px solid #f4f4f4;
+	border-top: 2px solid #000000;
+	border-bottom: 2px solid #f4f4f4;
+	border-radius: 50%;
+}
+
+.spinner-anim-alt {
+	animation: rotate 3s infinite linear;
+	border-right: 2px solid #000000;
+	border-left: 2px solid #f4f4f4;
+	border-top: 2px solid #000000;
+	border-bottom: 2px solid #f4f4f4;
+	border-radius: 50%;
+}
+
+.infinite-increase{
+	animation: increase 3s infinite;
+}
+
+.infinite-increase--2{
+	animation: increase 3s 1.5s infinite;
+}
+
+@keyframes rotate {
+	0% {transform:rotate(0deg);}
+	100% {transform:rotate(360deg);}
+}
+
+@keyframes dash {
+	0% {
+		stroke-dasharray: 1, 150;
+		stroke-dashoffset: 0;
+	}
+
+	50% {
+		stroke-dasharray: 90, 150;
+		stroke-dashoffset: -35;
+	}
+
+	100% {
+		stroke-dasharray: 90, 150;
+		stroke-dashoffset: -124;
+	}
+}
+
+.bounce-fade {
+	animation: fade 3s infinite linear;
+}
+
+@keyframes fade {
+	0% { opacity: 1; }
+	50% { opacity: 0.2; }
+	100% { opacity: 1; }
+}
+
+@keyframes increase {
+	from { transform:translateX(-100%); width: 10%; }
+	to { transform:translateX(205%); width: 50%;}
+}
+
+#Stage .Modal *,
+#Stage .Tutorial *,
+#Stage .Panel *,
+#Stage .Notifications *,
+#Stage .Page *:not([class*='vjs']),
+#Stage .Modal__wrapper * {
+    position: relative;
+}
+
+.Agenda ::-webkit-scrollbar {
+    background: transparent;
+    width: 0;
+}
+
+@supports (--css: variables) and (padding: env(safe-area-inset-bottom)) {
+	.feature-detects {
+		--safe-area-inset-top: env(safe-area-inset-top);
+		--safe-area-inset-right: env(safe-area-inset-right);
+		--safe-area-inset-bottom: env(safe-area-inset-bottom);
+		--safe-area-inset-left: env(safe-area-inset-left);
+	}
+}
+
+
+.UILGraphContextMenu {
+	line-height: 25px!important;
+}
+
+.joystick .behind,
+.joystick .inner,
+.joystick .wrapper {
+	will-change: transform;
+}
