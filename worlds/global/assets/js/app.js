@@ -7729,37 +7729,37 @@ window.ASSETS = ["assets/data/uil.json", "assets/shaders/compiled.vs"], ASSETS.S
 			}))
 		}(),
 		function initPrivacyAndTermsLinks() {
-			let $mobileFooterItems = $this.create("mobile-footer-items");
-			[{
-				modalId: "credits",
-				label: "Credits"
-			}, {
-				modalId: "faq",
-				label: "FAQ"
-			}, {
-				modalId: "privacy_policy",
-				label: "Privacy Policy"
-			}, {
-				modalId: "the_field",
-				label: "Visit The Field"
-			}, {
-				modalId: "instructions",
-				label: "Instructions"
-			}].forEach((mobileItem => {
-				let $link = $mobileFooterItems.create("link", "a");
-				$link.text(mobileItem.label), $link.interact({
-					overCallback: () => {},
-					clickCallback: () => {
-						! function onClickMobileItem(modalId) {
-							return UITransparentBar.instance().collapseActiveModal(), "the_field" === modalId ? (TrackAnalytics.track("TheFieldExit_menu"), void window.open("https://thefield.wsjbarrons.com/")) : "privacy_policy" !== modalId ? "instructions" === modalId ? (Storage.set("tutorials", null), void DreamUI.Tutorial.instance().showTutorial()) : void UIStore.commit("setModal", modalId) : void window.open("privacy-notice.html")
-						}(mobileItem.modalId)
-					},
-					seoText: mobileItem.label,
-					seoGroup: "global"
-				})
-			})), _this.linksWrapper = $this.create("links-wrapper"), _this.privacyLink = _this.linksWrapper.create("privacy-link", "a"), _this.privacyLink.text("Privacy Notice"), _this.privacyLink.interact((() => {}), (() => {
-				window.open("privacy-notice.html")
-			}))
+			// let $mobileFooterItems = $this.create("mobile-footer-items");
+			// [{
+			// 	modalId: "credits",
+			// 	label: "Credits"
+			// }, {
+			// 	modalId: "faq",
+			// 	label: "FAQ"
+			// }, {
+			// 	modalId: "privacy_policy",
+			// 	label: "Privacy Policy"
+			// }, {
+			// 	modalId: "the_field",
+			// 	label: "Visit The Field"
+			// }, {
+			// 	modalId: "instructions",
+			// 	label: "Instructions"
+			// }].forEach((mobileItem => {
+			// 	let $link = $mobileFooterItems.create("link", "a");
+			// 	$link.text(mobileItem.label), $link.interact({
+			// 		overCallback: () => {},
+			// 		clickCallback: () => {
+			// 			! function onClickMobileItem(modalId) {
+			// 				return UITransparentBar.instance().collapseActiveModal(), "the_field" === modalId ? (TrackAnalytics.track("TheFieldExit_menu"), void window.open("https://thefield.wsjbarrons.com/")) : "privacy_policy" !== modalId ? "instructions" === modalId ? (Storage.set("tutorials", null), void DreamUI.Tutorial.instance().showTutorial()) : void UIStore.commit("setModal", modalId) : void window.open("privacy-notice.html")
+			// 			}(mobileItem.modalId)
+			// 		},
+			// 		seoText: mobileItem.label,
+			// 		seoGroup: "global"
+			// 	})
+			// })), _this.linksWrapper = $this.create("links-wrapper"), _this.privacyLink = _this.linksWrapper.create("privacy-link", "a"), _this.privacyLink.text("Privacy Notice"), _this.privacyLink.interact((() => {}), (() => {
+			// 	window.open("privacy-notice.html")
+			// }))
 		}(),
 		function initStyles() {
 			$this.goob(`\n            & {\n                padding: 3rem;\n            }\n\n            & > * {\n                align-items: center;\n                display: flex;\n                justify-content: space-between;\n                letter-spacing: 0.02em;\n                width: 100%;\n            }\n\n            select {\n                width: 150px !important;\n                text-transform: uppercase;\n            }\n\n            .title {\n                font: var(--ui-transparent-label2-bold);\n                margin-bottom: 1.8rem;\n                text-transform: uppercase;\n            }\n\n            .settings {\n                flex-wrap: wrap;\n                font: var(--ui-transparent-label2-regular);\n\n                > .UIText {\n                    margin-bottom: 0.5rem;\n                    width: 100%;\n                    color: var(--white) !important;\n                }\n\n                &:not(:last-child) {\n                    margin-bottom: 1.5rem;\n                }\n\n                .settings-label {\n                    color: var(--white);\n                }\n            }\n\n            .mobile-footer-items{\n                display: none;\n                align-items: flex-start;\n                flex-direction: row;\n                flex-wrap: wrap;\n                font: var(--ui-transparent-label1-regular);\n                ${StyleGuide.manropeMedium};\n                text-align: left;\n                margin-top: 1.8rem;\n                color: white;\n                text-decoration: underline;\n                a {\n                    color: white;\n                    display: block;\n                    flex-basis: 50%;\n                    margin-bottom: 0.8rem;\n                    \n                }\n\n                a:nth-child(even) {\n                    text-align: right;\n                }\n\n                a:nth-child(odd) {\n                    text-align: left;\n                }\n\n                ${StyleUtil.smaller(1300,"\n                    display: flex;\n                ")}\n            }\n\n            \n\n            .links-wrapper {\n                width: 100%;\n                align: right;\n\n                ${StyleUtil.smaller(1300,"\n                    display: none;\n                ")}\n                \n                \n                .privacy-link, .terms-link {\n                    font: var(--ui-transparent-label1-regular);\n                    ${StyleGuide.manropeMedium};\n                    text-align: center;\n                    margin-top: 0.8rem;\n                    color: var(--white);\n                    text-decoration: underline;\n                }\n            }\n\n        `)
